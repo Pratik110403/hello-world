@@ -5,3 +5,5 @@ My name is Pratik Kulkarni
 I like gaming
 Google code-in and sugrlabs
 ROCK!!!
+Hello Sugar Labs
+I am Pratik Kulkarni
